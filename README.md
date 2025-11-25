@@ -77,10 +77,10 @@ Estoy abierto a roles que requieran pensamiento analítico riguroso y una comuni
 
 <h3 align="left">Datos de Contacto:</h3>
 <p align="left">
-    <a href="URL_DE_TU_LINKEDIN" target="_blank" rel="noreferrer"> 
+    <a href="https://www.linkedin.com/in/jsgonz/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn" />
     </a>
-    <a href="mailto:TU_EMAIL@example.com" target="_blank" rel="noreferrer"> 
+    <a href="mailto: juansgonz@gmail.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" title="Email" />
     </a>
     </p>
