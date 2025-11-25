@@ -60,14 +60,8 @@ Mi experiencia se centra en la construcción de **Pipelines de Datos End-to-End*
     * Desarrollo de un **Indicador Clave de Rendimiento (KPI)** propietario basado en la eficiencia real del equipo (ej. Net Rating) para predecir la probabilidad de victoria.
     * Dashboard en Power BI para visualizar la correlación entre KPIs avanzados y los resultados de juego.
 
-[AÑADE AQUÍ LOS ENLACES A TUS PROYECTOS]
-
-* [**VER REPOSITORIO COMPLETO**](URL_A_TU_REPOSITORIO_NBA)
-* **[VER DASHBOARD EN POWER BI]** (URL_A_POWER_BI_O_IMAGEN)
-
-### [Próximo Proyecto: Inventario Inteligente o E-commerce]
-
-[Descripción concisa del próximo proyecto que subas, centrado en el problema, la tecnología usada (ej. AWS S3, Spark, etc.) y el impacto.]
+* [**VER REPOSITORIO**](https://github.com/JuanGonz27/TrueShot.git)
+* **[VER DASHBOARD EN LOOKER]** (t.ly/yG8i0)
 
 ---
 
