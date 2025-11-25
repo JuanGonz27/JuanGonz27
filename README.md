@@ -61,7 +61,7 @@ Mi experiencia se centra en la construcción de **Pipelines de Datos End-to-End*
     * Dashboard en Power BI para visualizar la correlación entre KPIs avanzados y los resultados de juego.
 
 * [**VER REPOSITORIO**](https://github.com/JuanGonz27/TrueShot.git)
-* **[VER DASHBOARD EN LOOKER]** (t.ly/yG8i0)
+* **[VER DASHBOARD EN LOOKER]** (https://lookerstudio.google.com/u/0/reporting/1add8287-1d4c-4a6a-b8f2-121f7e335942/page/p_8y75v3l3xd)
 
 ---
 
